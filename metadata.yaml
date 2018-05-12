@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1216
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28889#The-Mexican-Twins
 gutenberg_issued: '2009-05-20'
 gutenberg_type: Text
 identifiers:
